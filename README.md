@@ -1,4 +1,4 @@
-# 📹 Apna Video Call
+# 📹 Apna-Video-Call
 
 A real-time video conferencing web application built using the **MERN Stack**. It allows users to connect through video calls, communicate with others, share screens, and manage their meeting history.
 
